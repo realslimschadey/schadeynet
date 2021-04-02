@@ -1,21 +1,29 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All Posts - Schadey</title>
-        <link>http://example.org/posts/</link>
-        <description>All Posts | Schadey</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 12:37:09 -0400</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Test_post</title>
-    <link>http://example.org/posts/test_post/</link>
-    <pubDate>Fri, 02 Apr 2021 12:37:09 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/posts/test_post/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Hello_world</title>
-    <link>http://example.org/posts/hello_world/</link>
-    <pubDate>Fri, 02 Apr 2021 12:33:49 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/posts/hello_world/</guid>
-    <description><![CDATA[]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Schadey</title>
+    <link>https://schadey.net/posts/</link>
+    <description>Recent content in Posts on Schadey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Apr 2021 12:37:09 -0400</lastBuildDate><atom:link href="https://schadey.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test_post</title>
+      <link>https://schadey.net/2021/test_post/</link>
+      <pubDate>Fri, 02 Apr 2021 12:37:09 -0400</pubDate>
+      
+      <guid>https://schadey.net/2021/test_post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://schadey.net/2021/hello_world/</link>
+      <pubDate>Fri, 02 Apr 2021 12:33:49 -0400</pubDate>
+      
+      <guid>https://schadey.net/2021/hello_world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
