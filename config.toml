@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Schadey"
+theme = "ublogger"
+
+[params]
+version = "2.0.X"

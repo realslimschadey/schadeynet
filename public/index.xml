@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Schadey</title>
+        <link>http://example.org/</link>
+        <description>Schadey</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 12:37:09 -0400</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Test_post</title>
+    <link>http://example.org/posts/test_post/</link>
+    <pubDate>Fri, 02 Apr 2021 12:37:09 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/posts/test_post/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Hello_world</title>
+    <link>http://example.org/posts/hello_world/</link>
+    <pubDate>Fri, 02 Apr 2021 12:33:49 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/posts/hello_world/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
