@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.schadey.net"
 languageCode = "en-us"
 title = "Schadey"
 theme = "ublogger"
