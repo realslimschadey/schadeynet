@@ -8,7 +8,3 @@ My name is michael. I have the following qualities:
 
 - I like protecting things
 - I like drones
-
-
-
-### my history
