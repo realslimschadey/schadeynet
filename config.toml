@@ -1,8 +1,6 @@
 baseURL = "https://schadey.net"
 languageCode = "en"
 defaultContentLanguage = "en"
-contentdir = "content"
-publishdir = "public"
 title = "Schadey"
 theme = "keepit"
 
