@@ -169,7 +169,7 @@ clientSecret = "" # Your client secret
 [params.valine]
   enable = false
   language = 'en'
-  appId = 'your appId'
+  appId = 'your appIdd'
   appKey = 'your appKey'
   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
   verify = false # Verification code
